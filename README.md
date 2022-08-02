@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rutujakadam.netlify.app/](https://rutujakadam.netlify.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@rutujadev](https://hashnode.com/@rutujadev)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
