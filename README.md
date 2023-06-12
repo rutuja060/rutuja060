@@ -17,8 +17,6 @@ As a final year IT student, I've had the opportunity to work on a variety of pro
 SNS,SES, Python, JavaScript & JSON, HTML
 
 
-- Project 3: MANAGING AND VISUALIZING A RDS DATABASE USING ECS CONTAINERS. Manage a database and visualize its data with tools installed inside containers. Technologies used:- VPC & Subnets, RDS, EC2 & EBS, ECS, EFS, phpMyAdmin, Metabase
-
 ## Contact Me
 
 If you'd like to get in touch with me, you can reach me at kadamrutuja103@gmail.com. I'm always happy to connect with other students and professionals who share my interests in cloud computing and DevOps.
